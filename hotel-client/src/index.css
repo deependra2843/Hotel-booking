@@ -1,7 +1,7 @@
 body {
   min-height: 100vh;
   padding-bottom: 50px;
-  /* background-color: rgb(36, 35, 35); */
+  background-color: black;
 }
 .card {
   opacity: 0.9;
