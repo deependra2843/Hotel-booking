@@ -32,7 +32,7 @@ This project is a hotel booking system designed to facilitate the process of boo
 •	Payment Integration: Stripe.
 
 
-#Installation
+# Installation
 1.	Clone the repository: git clone https://github.com/deependra2843/Hotel-booking
 
 2.	Navigate to the project directory: cd hotel-booking
